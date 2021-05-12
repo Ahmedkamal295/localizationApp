@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  localizationApp
+
+  Created by Ahmed kamal on 5/10/21.
+  
+*/
+"lang" = "ar";
+"Error" = "خطأ";
+"ErrorMsg" = "هناك خطا ما";
+"Dismiss" = "الغاء";
+"languageButton" = "English";

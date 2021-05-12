@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "5xP-PA-KjL"; */
+"5xP-PA-KjL.normalTitle" = "انجليزي";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "GUW-au-0hW"; */
+"GUW-au-0hW.text" = "مرحبا";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "aIX-Bd-b9G"; */
+"aIX-Bd-b9G.placeholder" = "اسم المستخدم";
+
+/* Class = "UIButton"; normalTitle = "Arabic"; ObjectID = "cf5-Ab-hsG"; */
+"cf5-Ab-hsG.normalTitle" = "عربي";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "vaq-HX-bjR"; */
+"vaq-HX-bjR.normalTitle" = "تسجيل الدخول";
